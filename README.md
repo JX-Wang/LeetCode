@@ -1,4 +1,6 @@
 # LeetCode
+
+```Python2.7.16```  ```wudly.cn```  ```Wangjunxiong```  
 [LeetCode 1. Two Sum](http://wudly.cn/?p=486) 
 [LeetCode 7. Reverse Integer](http://wudly.cn/?p=490)  
 [LeetCode 9. Palindrome Number](http://wudly.cn/?p=493)  
@@ -11,7 +13,7 @@
 [LeetCode 67. Add Binary](http://wudly.cn/?p=511)  
 [LeetCode 167. Two Sum II – Input array is sorted](http://wudly.cn/?p=514)  
 [LeetCode 169. Majority Element](http://wudly.cn/?p=516)  
-[leetCode 217. Contains Duplicate](http://wudly.cn/?p=518)  
+[LeetCode 217. Contains Duplicate](http://wudly.cn/?p=518)  
 [LeetCode 202. Happy Number](http://wudly.cn/?p=521)  
 [LeetCode 53. Maximum Subarray](http://wudly.cn/?p=533)  
 [LeetCode 28. Implement strStr()](http://wudly.cn/?p=531)  
