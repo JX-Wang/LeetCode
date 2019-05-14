@@ -1,5 +1,5 @@
 # LeetCode
-
+![](https://img.shields.io/badge/license-WTFPL-blue.svg) ![](https://img.shields.io/github/repo-size/JX-Wang/LeetCode.svg) ![](https://img.shields.io/bitbucket/issues-raw/JX-Wang/LeetCode.svg) ![](https://img.shields.io/github/forks/JX-Wang/LeetCode.svg?label=Fork) ![](https://img.shields.io/github/stars/JX-Wang/LeetCode.svg?style=social)  
 ```Python2.7.16```  ```wudly.cn```  ```Wangjunxiong```  
 [LeetCode 1. Two Sum](http://wudly.cn/?p=486) 
 [LeetCode 7. Reverse Integer](http://wudly.cn/?p=490)  
