@@ -21,3 +21,5 @@
 [LeetCode 448. Find All Numbers Disappeared in an Array](http://wudly.cn/?p=527)  
 [LeetCode 371. Sum of Two Integers](http://wudly.cn/?p=525)  
 [LeetCode 344. Reverse String](http://wudly.cn/?p=523)  
+[LeetCode 83. Remove Duplicates from Sorted List](http://wudly.cn/?p=535)  
+[ LeetCode 70. Climbing Stairs ](http://wudly.cn/?p=537)  
