@@ -1,25 +1,5 @@
 # LeetCode
 ![](https://img.shields.io/badge/license-WTFPL-blue.svg) ![](https://img.shields.io/github/repo-size/JX-Wang/LeetCode.svg) ![](https://img.shields.io/bitbucket/issues-raw/JX-Wang/LeetCode.svg) ![](https://img.shields.io/github/forks/JX-Wang/LeetCode.svg?label=Fork) ![](https://img.shields.io/github/stars/JX-Wang/LeetCode.svg?style=social)  
-```Python2.7.16```  ```wudly.cn```  ```Wangjunxiong```  
-[LeetCode 1. Two Sum](http://wudly.cn/?p=486) 
-[LeetCode 7. Reverse Integer](http://wudly.cn/?p=490)  
-[LeetCode 9. Palindrome Number](http://wudly.cn/?p=493)  
-[LeetCode 26. Remove Duplicates from Sorted Array](http://wudly.cn/?p=495)  
-[LeetCode 27. Remove Element](http://wudly.cn/?p=497)  
-[LeetCode 35. Search Insert Position](http://wudly.cn/?p=499)  
-[LeetCode 136. Single Number](http://wudly.cn/?p=501)  
-[LeetCode 66. Plus One](http://wudly.cn/?p=506)  
-[LeetCode 69. Sqrt(x)](http://wudly.cn/?p=509)  
-[LeetCode 67. Add Binary](http://wudly.cn/?p=511)  
-[LeetCode 167. Two Sum II – Input array is sorted](http://wudly.cn/?p=514)  
-[LeetCode 169. Majority Element](http://wudly.cn/?p=516)  
-[LeetCode 217. Contains Duplicate](http://wudly.cn/?p=518)  
-[LeetCode 202. Happy Number](http://wudly.cn/?p=521)  
-[LeetCode 53. Maximum Subarray](http://wudly.cn/?p=533)  
-[LeetCode 28. Implement strStr()](http://wudly.cn/?p=531)  
-[LeetCode 461. Hamming Distance](http://wudly.cn/?p=529)  
-[LeetCode 448. Find All Numbers Disappeared in an Array](http://wudly.cn/?p=527)  
-[LeetCode 371. Sum of Two Integers](http://wudly.cn/?p=525)  
-[LeetCode 344. Reverse String](http://wudly.cn/?p=523)  
-[LeetCode 83. Remove Duplicates from Sorted List](http://wudly.cn/?p=535)  
-[ LeetCode 70. Climbing Stairs ](http://wudly.cn/?p=537)  
+Python Solutions and C++ Solutions  
+```C++```  ```Python2.7.X```  ```wudly.cn```   ```Wangjunxiong```  
+
