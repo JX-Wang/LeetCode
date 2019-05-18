@@ -23,3 +23,6 @@
 [LeetCode 344. Reverse String](http://wudly.cn/?p=523)  
 [LeetCode 83. Remove Duplicates from Sorted List](http://wudly.cn/?p=535)  
 [ LeetCode 70. Climbing Stairs ](http://wudly.cn/?p=537)  
+[ LeetCode 14. Longest Common Prefix ](http://wudly.cn/?p=539)  
+[ cpp->LeetCode 104. Maximum Depth of Binary Tree ](http://wudly.cn/?p=542)  
+[LeetCode 389. Find the Difference ](http://wudly.cn/?p=549)
